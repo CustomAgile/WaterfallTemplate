@@ -1,0 +1,13 @@
+{
+    "name": "Process Template Selector",
+    "className": "CustomApp",
+    "sdk": "2.0p2",
+    "javascript": [
+        "SetupWaterfallState.js",
+        "SetupLeanState.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
